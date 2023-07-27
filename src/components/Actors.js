@@ -15,10 +15,10 @@ function Actors() {
   ));
   
   
-  return <div>
+  return <>
     <h1>Actors Page</h1>
     {actorItems}
-  </div>
+  </>
 }
 
 export default Actors;
